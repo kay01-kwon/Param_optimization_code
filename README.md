@@ -3,7 +3,11 @@ Spring stiffness, parameter optimization
 
 `cd project`
 
+Make the build directory.
+
 `mkdir build`
+
+Navigate to build directory
 
 `cd build`
 
