@@ -16,3 +16,7 @@ Navigate to build directory
 `make`
 
 `./opt_param`
+
+Result
+
+<img src = "opt_param.png" width="913" height="516"/>
