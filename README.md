@@ -3,20 +3,24 @@ Spring stiffness, parameter optimization
 
 `cd project`
 
-Make the build directory.
+1. Make the build directory.
 
 `mkdir build`
 
-Navigate to build directory
+2. Navigate to build directory.
 
 `cd build`
 
 `cmake ..`
 
+3. Compile the code.
+
 `make`
+
+4. Execute the parameter optimization code.
 
 `./opt_param`
 
-Result
+5. Result
 
 <img src = "project/opt_param.png" width="913" height="1200"/>
