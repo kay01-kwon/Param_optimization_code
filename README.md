@@ -19,4 +19,4 @@ Navigate to build directory
 
 Result
 
-<img src = "project/opt_param.png" width="913" height="516"/>
+<img src = "project/opt_param.png" width="913" height="700"/>
