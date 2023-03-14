@@ -7,7 +7,7 @@ Spring stiffness, parameter optimization
 
 `mkdir build`
 
-2. Navigate to build directory.
+2. Navigate to the build directory.
 
 `cd build`
 
